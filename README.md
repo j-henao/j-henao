@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **j-henao/j-henao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ***Who i am?***
+_Hi my name is ... I don't say that jajajaja, you can call me henao_
+- I'm currently learning
+- I want to get anothers knowledge
+- I want to do friends and a colleagues with whom I can work <br> <br>**That is all for now 😉**
